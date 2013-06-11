@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "PusherR", "PusherR\PusherR.ccproj", "{ACB00AB4-D779-4EBF-9C5D-E04B1D7E46CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PusherRWebRole", "PusherRWebRole\PusherRWebRole.csproj", "{36FA65C3-E7AE-42E5-AD39-C0C01B1D202C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB00AB4-D779-4EBF-9C5D-E04B1D7E46CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB00AB4-D779-4EBF-9C5D-E04B1D7E46CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB00AB4-D779-4EBF-9C5D-E04B1D7E46CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB00AB4-D779-4EBF-9C5D-E04B1D7E46CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36FA65C3-E7AE-42E5-AD39-C0C01B1D202C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FA65C3-E7AE-42E5-AD39-C0C01B1D202C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FA65C3-E7AE-42E5-AD39-C0C01B1D202C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FA65C3-E7AE-42E5-AD39-C0C01B1D202C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
