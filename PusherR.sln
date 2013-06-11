@@ -5,6 +5,8 @@ Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "PusherR", "PusherR\PusherR.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PusherRWebRole", "PusherRWebRole\PusherRWebRole.csproj", "{36FA65C3-E7AE-42E5-AD39-C0C01B1D202C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PusherRWeb", "PusherRWeb\PusherRWeb.csproj", "{5E75F7F3-C32E-44EB-8C9C-EF2BBD42D42C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{36FA65C3-E7AE-42E5-AD39-C0C01B1D202C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36FA65C3-E7AE-42E5-AD39-C0C01B1D202C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36FA65C3-E7AE-42E5-AD39-C0C01B1D202C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E75F7F3-C32E-44EB-8C9C-EF2BBD42D42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E75F7F3-C32E-44EB-8C9C-EF2BBD42D42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E75F7F3-C32E-44EB-8C9C-EF2BBD42D42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E75F7F3-C32E-44EB-8C9C-EF2BBD42D42C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
